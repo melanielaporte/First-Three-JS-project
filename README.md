@@ -1,7 +1,7 @@
 <h1 align="center">First ThreeJS Project</h1>
 
 This README.md file contains starter files and folders.
-![shapeGif](https://github.com/user-attachments/assets/ceee965d-3add-451e-a535-cf0799444a09)
+![shapePinkGif](https://github.com/user-attachments/assets/fd7d3781-bf27-424e-9563-b15c578ebf78)
 
  
 # Step 1: create the environment
