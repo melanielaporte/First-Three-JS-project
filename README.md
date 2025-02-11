@@ -44,6 +44,7 @@ renderer.setAnimationLoop( animate );
 
 
 # Step 5: Animating the cube
+
 cube.rotation.x += 0.01;
 cube.rotation.y += 0.01;
 
