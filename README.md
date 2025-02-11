@@ -1,6 +1,7 @@
-<h1 align="center">ThreeJS Template Project</h1>
+<h1 align="center">First ThreeJS Project</h1>
 
 This README.md file contains starter files and folders.
+![shapeGif](https://github.com/user-attachments/assets/ceee965d-3add-451e-a535-cf0799444a09)
 
  
 # Step 1: create the environment
